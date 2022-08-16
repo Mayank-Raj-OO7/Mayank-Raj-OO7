@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mayank-Raj-OO7
 - 👀 I’m interested in problem solving
-- 🌱 I’m currently learning Web Developement
+- 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on new technologies and tools.
 - 📫 How to reach me : - starkbloodraven@gmail.com
 
